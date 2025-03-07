@@ -8,6 +8,7 @@ We are only supporting version 1.4.0, which is the only working version. A DNS u
 | ------- | ------------------ |
 | 1.4.0   | :white_check_mark: |
 | >3.0.0   | :x:                |
+| 1.0.0  | :x:                |
 
 ## Reporting a Vulnerability
 
