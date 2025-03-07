@@ -1,2 +1,2 @@
 # S-project
-A few methods of breaking the infamous game blocker
+Basically a fork of KillSecurlyFoundation's ONC method with a full guide
