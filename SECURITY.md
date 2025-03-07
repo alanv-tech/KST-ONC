@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We are only supporting version 1.4.0, which is the only working version. A DNS update carried out by the KSF caused the Securly ONC on Chromebooks to be unsupported. We have to use an older version. (1.4.0)
 
 | Version | Supported          |
 | ------- | ------------------ |
