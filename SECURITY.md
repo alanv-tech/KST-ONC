@@ -11,4 +11,4 @@ We are only supporting version 1.4.0, which is the only working version. A DNS u
 
 ## Reporting a Vulnerability
 
-Submit any issues in the issues category. If it is serious, opem up a discussion with the title "SECURITY VULNERABILITY".
+Submit any issues in the issues category. If it is serious, open up a discussion with the title "SECURITY VULNERABILITY".
