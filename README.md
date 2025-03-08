@@ -30,5 +30,4 @@ By using this software, you acknowledge and agree to these terms.
 ## ⚡ Notes  
 - **This tool is experimental** and may require adjustments over time.  
 - **Restarting your device resets the process.**  
-- **Development is ongoing**, so expect frequent updates.  
 ##
