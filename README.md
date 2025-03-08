@@ -10,7 +10,6 @@ This project is **intended for educational and research purposes only**. It shou
 By using this software, you acknowledge and agree to these terms.  
 
 ## 🔥 Features  
-- **Enhanced ONC method** for improved efficiency  
 - **Step-by-step guide available** for easy implementation  
 - **Bypasses certain website restrictions** (subject to updates)  
 
