@@ -1,6 +1,6 @@
 # KST-ONC  
 
-**KST-ONC** is an enhanced version of KillSecurlyFoundation’s ONC method, providing a comprehensive guide for effective implementation. It builds on previous techniques with improved reliability and functionality.  
+**KST-ONC** is basically a version of KillSecurlyFoundation's ONC method with a full guide. 
 
 ## ⚠️ Disclaimer  
 This software is provided **"as is"** without any warranties or guarantees. The developers are **not responsible** for any damage, data loss, or legal consequences resulting from its use. **Use this tool at your own risk** and ensure compliance with all applicable laws, regulations, and institutional policies.  
@@ -29,8 +29,7 @@ By using this software, you acknowledge and agree to these terms.
 
 ## ⚡ Notes  
 - **This tool is experimental** and may require adjustments over time.  
-- **Restarting your device resets the process.**  
-- **Development is ongoing**, so expect frequent updates.  
-
+- **Restarting your device resets the process.**
+  
 ## 📜 License  
 This project is licensed under the **[BSD 3-Clause License]()**.  
