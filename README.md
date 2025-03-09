@@ -1,6 +1,6 @@
 # KST-ONC  
 
-**KST-ONC** is KillSecurlyFoundation’s ONC method, but with a comprehensive guide for effective implementation.  
+**KST-ONC** is KillSecurlyFoundation’s ONC method, but with a comprehensive guide for effective implementation.
 
 ## ⚠️ Disclaimer  
 **NOT AFFILIATED WITH KILLSECURLY FOUNDATION**
@@ -12,11 +12,12 @@ You are using this software at your own risk.
 - **Bypasses certain website restrictions** 
 
 ## 🚀 Prerequisites  
-- Stable internet connection  
+- Stable internet connection
 - Securly Extension installed
 - DNS Support 
 
 ## 📖 Installation & Usage  
+**If you came here from the website, click [here](https://github.com/alanv-tech/KST-ONC) 
 1. Go to the [official wiki](https://github.com/alanv-tech/KST-ONC/wiki/Guide).  
 2. Follow the instructions carefully.  
 3. Ensure all prerequisites are met before proceeding.  
