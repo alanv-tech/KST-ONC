@@ -17,7 +17,7 @@ You are using this software at your own risk.
 - DNS Support 
 
 ## 📖 Installation & Usage  
-**If you came here from the website, click [here](https://github.com/alanv-tech/KST-ONC) 
+**If you came here from the website, click [here](https://github.com/alanv-tech/KST-ONC)**
 1. Go to the [official wiki](https://github.com/alanv-tech/KST-ONC/wiki/Guide).  
 2. Follow the instructions carefully.  
 3. Ensure all prerequisites are met before proceeding.  
