@@ -3,7 +3,7 @@
 **KST-ONC** is KillSecurlyFoundation’s ONC method, but with a comprehensive guide for effective implementation.  
 
 ## ⚠️ Disclaimer  
-**NOT AFFILIATED WITH KILL SECURLY FOUNDATION**
+**NOT AFFILIATED WITH KILLSECURLY FOUNDATION**
 
 You are using this software at your own risk.  
 
