@@ -17,7 +17,7 @@ By using this software, you acknowledge and agree to these terms.
 - DNS Support 
 
 ## 📖 Installation & Usage  
-1. Go to the [official guide](https://docs.google.com/document/d/1IXdD8Qab9QSpxWPsSK6lCBqtyNoTMSnaTurLWMhIZvQ/edit?tab=t.0#heading=h.fqs00d4xjppi).  
+1. Go to the [official wiki](https://github.com/alanv-tech/KST-ONC/wiki).  
 2. Follow the instructions carefully.  
 3. Ensure all prerequisites are met before proceeding.  
 
