@@ -1,15 +1,18 @@
-# Security Policy
+# 🔒 Security Policy
 
-## Supported Versions
+## 🛠️ Supported Versions
 
-We are only supporting version 1.4.0, which is the only working version. A DNS update carried out by the KSF caused the Securly ONC on Chromebooks to be unsupported. We have to use an older version. (1.4.0)
+We currently **only support version 1.4.0**, as it is the only working version. A recent DNS update by KSF has rendered newer versions incompatible with the Securly ONC on Chromebooks. Therefore, we must use **version 1.4.0**.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.4.0   | :white_check_mark: |
-| >3.0.0  | :x:                |
-| 1.0.0   | :x:                |
+| **Version** | **Supported**      |
+|-------------|--------------------|
+| **1.4.0**   | ✅ Yes             |
+| **>3.0.0**  | ❌ No              |
+| **1.0.0**   | ❌ No              |
 
-## Reporting a Vulnerability
+---
 
-Submit a security vulnerability in the "Issues" tab. Choose the "Report a security vulnerability" template.
+## 🕵️‍♂️ Reporting a Vulnerability
+
+If you encounter any issues, please report them in the **Issues** section.  
+For **serious security vulnerabilities**, please open a **Issue** with the title **"SERIOUS SECURITY VULNERABILITY"**.
