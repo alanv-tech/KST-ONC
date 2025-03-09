@@ -8,7 +8,7 @@
 You are using this software at your own risk.  
 
 ## 🔥 Features  
-- **Step-by-step guide available** for easy implementation  
+- **Step-by-step guide** available for easy implementation  
 - **Bypasses certain website restrictions** 
 
 ## 🚀 Prerequisites  
@@ -28,5 +28,5 @@ You are using this software at your own risk.
 
 ## ⚡ Notes  
 - **This tool is experimental**
-- **Restarting your device resets the process.**  
+- **Restarting or closing your device resets the process.**  
 ##
