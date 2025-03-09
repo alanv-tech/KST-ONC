@@ -17,7 +17,7 @@ By using this software, you acknowledge and agree to these terms.
 - DNS Support 
 
 ## 📖 Installation & Usage  
-1. Go to the [official guide](https://docs.google.com/document/d/1ipVEwMWMlYIlroB21wu47xszCbj1pBZvbY36DERwTZw/edit?tab=t.ogcu2ppypxnu#heading=h.fbhqf6a8we0p).  
+1. Go to the [official guide](https://docs.google.com/document/d/1IXdD8Qab9QSpxWPsSK6lCBqtyNoTMSnaTurLWMhIZvQ/edit?tab=t.0#heading=h.fqs00d4xjppi).  
 2. Follow the instructions carefully.  
 3. Ensure all prerequisites are met before proceeding.  
 
