@@ -5,7 +5,7 @@
 ## ⚠️ Disclaimer  
 **NOT AFFILIATED WITH KILL SECURLY FOUNDATION**
 
-By using this software, you acknowledge and agree to these terms.  
+You are using this software at your own risk.  
 
 ## 🔥 Features  
 - **Step-by-step guide available** for easy implementation  
