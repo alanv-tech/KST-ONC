@@ -1,3 +1,6 @@
+# Note
+As of March 11, 2025, **KST-ONC** will no longer be supported. Thank you for using this project.
+
 # KST-ONC  
 
 **KST-ONC** is KillSecurlyFoundation’s ONC method, but with a comprehensive guide for effective implementation.
